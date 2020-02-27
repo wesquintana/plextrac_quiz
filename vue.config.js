@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/plextrac_quiz/" : "/"
+  publicPath: "plextrac_quiz"
 };
