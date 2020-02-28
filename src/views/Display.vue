@@ -122,6 +122,7 @@ export default {
 <style>
 .div-button {
   width: 100%;
+  border-radius: 3em;
 }
 .buttons-div {
   display: flex;
